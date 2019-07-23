@@ -1,0 +1,17 @@
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\bin\Debug\netcoreapp2.2\BattleshipTracker.UnitTests.deps.json
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\bin\Debug\netcoreapp2.2\BattleshipTracker.UnitTests.runtimeconfig.json
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\bin\Debug\netcoreapp2.2\BattleshipTracker.UnitTests.runtimeconfig.dev.json
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\bin\Debug\netcoreapp2.2\BattleshipTracker.UnitTests.dll
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\obj\Debug\netcoreapp2.2\BattleshipTracker.UnitTests.csprojAssemblyReference.cache
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\obj\Debug\netcoreapp2.2\BattleshipTracker.UnitTests.csproj.CoreCompileInputs.cache
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\obj\Debug\netcoreapp2.2\BattleshipTracker.UnitTests.AssemblyInfoInputs.cache
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\obj\Debug\netcoreapp2.2\BattleshipTracker.UnitTests.AssemblyInfo.cs
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\bin\Debug\netcoreapp2.2\BattleshipTracker.UnitTests.pdb
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\bin\Debug\netcoreapp2.2\BattleshipTracker.Services.dll
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\bin\Debug\netcoreapp2.2\BattleshipTracker.Services.pdb
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\obj\Debug\netcoreapp2.2\BattleshipTracker.UnitTests.csproj.CopyComplete
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\obj\Debug\netcoreapp2.2\BattleshipTracker.UnitTests.dll
+D:\Repos\BattleshipTracker\BattleshipTracker.UnitTests\obj\Debug\netcoreapp2.2\BattleshipTracker.UnitTests.pdb

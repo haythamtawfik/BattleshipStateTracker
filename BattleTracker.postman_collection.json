@@ -1,0 +1,142 @@
+{
+	"info": {
+		"_postman_id": "b00bc3b0-93b1-4bac-9dfe-97203e4ac763",
+		"name": "BattleTracker",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Create Game",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\"BoardSize\":10,\n\"ShipsNo\":2,\n\"ShipLength\":3\n}"
+				},
+				"url": {
+					"raw": "https://battleshiptrackerapi20190724014204.azurewebsites.net/api/battletrack",
+					"protocol": "https",
+					"host": [
+						"battleshiptrackerapi20190724014204",
+						"azurewebsites",
+						"net"
+					],
+					"path": [
+						"api",
+						"battletrack"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Game Status",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://battleshiptrackerapi20190724014204.azurewebsites.net/api/battletrack",
+					"protocol": "https",
+					"host": [
+						"battleshiptrackerapi20190724014204",
+						"azurewebsites",
+						"net"
+					],
+					"path": [
+						"api",
+						"battletrack"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AttackCell",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"attackedPoint\":{\n\t\t\"X\":\"0\",\n\t\t\"Y\":\"0\"\n\t}\n}"
+				},
+				"url": {
+					"raw": "https://battleshiptrackerapi20190724014204.azurewebsites.net/api/battletrack/attacks",
+					"protocol": "https",
+					"host": [
+						"battleshiptrackerapi20190724014204",
+						"azurewebsites",
+						"net"
+					],
+					"path": [
+						"api",
+						"battletrack",
+						"attacks"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CreateShip",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"StartPoint\":{\n\t\t\"X\":5,\n\t\t\"Y\":5\n\t},\n\t\"Direction\":\"Horizontal\"\n}"
+				},
+				"url": {
+					"raw": "https://battleshiptrackerapi20190724014204.azurewebsites.net/api/battletrack/ships",
+					"protocol": "https",
+					"host": [
+						"battleshiptrackerapi20190724014204",
+						"azurewebsites",
+						"net"
+					],
+					"path": [
+						"api",
+						"battletrack",
+						"ships"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

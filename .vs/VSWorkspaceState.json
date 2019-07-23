@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\BattleshipTracker.API",
+    "\\src\\BattleshipTracker.Services",
+    "\\tests",
+    "\\tests\\BattleshipTracker.UnitTests"
+  ],
+  "SelectedNode": "\\src\\BattleshipTracker.API\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
